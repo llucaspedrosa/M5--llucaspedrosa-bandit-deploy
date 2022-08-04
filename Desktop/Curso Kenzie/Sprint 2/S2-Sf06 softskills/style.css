@@ -1,0 +1,11 @@
+ .container{list-style: none;
+    height: 300px;
+    width: 270px;
+    background-color: aqua;
+border-radius: 1000px;
+ }
+ .li2{background-color: red;
+    padding: 20px;
+    border-bottom-right-radius: 20px;
+
+ }
